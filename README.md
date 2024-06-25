@@ -1,2 +1,2 @@
 # loan -prediction
- This is the machine elarning project for Data Science
+ This is the machine learning project for Data Science
